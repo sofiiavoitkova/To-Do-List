@@ -29,3 +29,11 @@ body {
   height: 25px;
   outline-color: #fff;
 }
+
+.input-container button {
+  height: 31px;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  background-color: #ff0000;
+}
